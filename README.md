@@ -5,7 +5,7 @@
     </a>
 </P>
 
-<h1 align="center">Hi 👋, I'm Rigoberto Moreiar!</h1>
+<h1 align="center">Hi ✌, I'm Rigoberto Moreira!</h1>
 <h3 align="center">I'm a FullStack dev from Nicaragua!</h3>
 
 <div align="center">
@@ -20,7 +20,7 @@
                 <li>💼 Find my LinkedIn profile here: <a href="https://linkedin.com/in/rigoberto-moreira" target="_blank"><strong>Rigoberto Moreira</strong>
                     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rigoberto-moreira" height="18" width="30" /></a>
                 </li>
-                <li>⚡ Fun fact: <strong>I like working out ^^</strong></li>
+                <li>💪 Fun fact: <strong>I LOVE weightlifting! ^^</strong></li>
             </ul>
         </td>
         <td>
