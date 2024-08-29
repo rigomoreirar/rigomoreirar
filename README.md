@@ -7,14 +7,18 @@
     alt="Coding"
     src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"
     width="400"
+    style="border-radius: 15px"
 />
 
-- 🔭 I’m currently working at **Capstone Logistics, LLC** - 🌱 I’m currently
-looking forward to get this certification **Microsoft DevOps Engineer Expert** -
-💬 Ask me about **MERN, .Net, or k8s** - 📫 How to reach me
-**rigomoreirar@gmail.com** - ⚡ Fun fact **I like working out ^^**
+=> 💻 I’m currently working at **Capstone Logistics, LLC** <br />
+=> 🚀 I’m currently looking forward to get certified as a: **Microsoft DevOps
+Engineer Expert** <br />
+=> 📬 Open to relocating for a new job, as well as contracts or new job offers!
+<br />
+=> 📧 Find here my personal email: **rigomoreirar@gmail.com** <br />
+- ⚡ Fun fact **I like working out ^^**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find my LinkedIn profile here:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/rigoberto-moreira" target="blank"
         ><img
