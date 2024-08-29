@@ -1,6 +1,6 @@
 <P align="center">
     <a href="https://github.com/rigomoreirar?tab=repositories" target="_blank">
-        <img src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif" alt="MasterHead"
+        <img src="https://raw.githubusercontent.com/rigomoreirar/rigomoreirar/main/assets/programming-pixelart-img1.gif" alt="MasterHead"
             style="width: 100%; max-width: 800px; border-radius: 15px" />
     </a>
 </P>
@@ -25,7 +25,7 @@
         </td>
         <td>
             <a href="https://github.com/rigomoreirar?tab=repositories" target="_blank">
-                <img align="right" alt="Coding" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="400" style="border-radius: 15px" />
+                <img align="right" alt="Coding" src="https://raw.githubusercontent.com/rigomoreirar/rigomoreirar/main/assets/programming-pixelart-img2.gif" width="400" style="border-radius: 15px" />
             </a>
         </td>
     </tr>
